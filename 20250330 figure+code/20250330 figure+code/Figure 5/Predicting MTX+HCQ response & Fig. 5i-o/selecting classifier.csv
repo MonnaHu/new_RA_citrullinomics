@@ -1,0 +1,4951 @@
+predictions,Actual,predictions_type,AUC,Fold,Model
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+1,1,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,training,1,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+1,1,testing,0.625,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+0,1,testing,0.625,1,1Logistic Regression
+0,1,testing,0.625,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+1,0,testing,0.625,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+1,0,testing,0.625,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+0,1,testing,0.625,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+0,0,testing,0.625,1,1Logistic Regression
+1,0,testing,0.625,1,1Logistic Regression
+1,1,testing,0.625,1,1Logistic Regression
+1,1,testing,0.625,1,1Logistic Regression
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,1,training,0.913043478,1,2ridge
+1,1,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,training,0.913043478,1,2ridge
+0,0,testing,0.75,1,2ridge
+0,0,testing,0.75,1,2ridge
+1,1,testing,0.75,1,2ridge
+0,0,testing,0.75,1,2ridge
+1,1,testing,0.75,1,2ridge
+0,1,testing,0.75,1,2ridge
+0,0,testing,0.75,1,2ridge
+0,0,testing,0.75,1,2ridge
+0,0,testing,0.75,1,2ridge
+1,0,testing,0.75,1,2ridge
+1,0,testing,0.75,1,2ridge
+1,1,testing,0.75,1,2ridge
+1,0,testing,0.75,1,2ridge
+0,0,testing,0.75,1,2ridge
+0,0,testing,0.75,1,2ridge
+1,0,testing,0.75,1,2ridge
+1,1,testing,0.75,1,2ridge
+1,1,testing,0.75,1,2ridge
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,1,training,0.869565217,1,3lasso
+0,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,0,training,0.869565217,1,3lasso
+0,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+1,1,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+0,0,training,0.869565217,1,3lasso
+1,0,testing,0.666666667,1,3lasso
+0,0,testing,0.666666667,1,3lasso
+1,1,testing,0.666666667,1,3lasso
+0,0,testing,0.666666667,1,3lasso
+1,1,testing,0.666666667,1,3lasso
+0,1,testing,0.666666667,1,3lasso
+0,0,testing,0.666666667,1,3lasso
+0,0,testing,0.666666667,1,3lasso
+1,0,testing,0.666666667,1,3lasso
+1,0,testing,0.666666667,1,3lasso
+1,0,testing,0.666666667,1,3lasso
+1,1,testing,0.666666667,1,3lasso
+1,0,testing,0.666666667,1,3lasso
+0,0,testing,0.666666667,1,3lasso
+0,0,testing,0.666666667,1,3lasso
+1,0,testing,0.666666667,1,3lasso
+1,1,testing,0.666666667,1,3lasso
+1,1,testing,0.666666667,1,3lasso
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,1,training,0.836956522,1,4KNN
+0,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,0,training,0.836956522,1,4KNN
+0,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+1,0,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+1,1,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,training,0.836956522,1,4KNN
+0,0,testing,0.666666667,1,4KNN
+0,0,testing,0.666666667,1,4KNN
+1,1,testing,0.666666667,1,4KNN
+0,0,testing,0.666666667,1,4KNN
+1,1,testing,0.666666667,1,4KNN
+0,1,testing,0.666666667,1,4KNN
+0,0,testing,0.666666667,1,4KNN
+0,0,testing,0.666666667,1,4KNN
+1,0,testing,0.666666667,1,4KNN
+1,0,testing,0.666666667,1,4KNN
+0,0,testing,0.666666667,1,4KNN
+0,1,testing,0.666666667,1,4KNN
+1,0,testing,0.666666667,1,4KNN
+0,0,testing,0.666666667,1,4KNN
+0,0,testing,0.666666667,1,4KNN
+1,0,testing,0.666666667,1,4KNN
+1,1,testing,0.666666667,1,4KNN
+1,1,testing,0.666666667,1,4KNN
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+1,1,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,training,0.945652174,1,5SVM
+0,0,testing,0.708333333,1,5SVM
+0,0,testing,0.708333333,1,5SVM
+1,1,testing,0.708333333,1,5SVM
+0,0,testing,0.708333333,1,5SVM
+1,1,testing,0.708333333,1,5SVM
+0,1,testing,0.708333333,1,5SVM
+0,0,testing,0.708333333,1,5SVM
+0,0,testing,0.708333333,1,5SVM
+1,0,testing,0.708333333,1,5SVM
+1,0,testing,0.708333333,1,5SVM
+1,0,testing,0.708333333,1,5SVM
+1,1,testing,0.708333333,1,5SVM
+1,0,testing,0.708333333,1,5SVM
+0,0,testing,0.708333333,1,5SVM
+0,0,testing,0.708333333,1,5SVM
+1,0,testing,0.708333333,1,5SVM
+1,1,testing,0.708333333,1,5SVM
+1,1,testing,0.708333333,1,5SVM
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+1,0,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+1,1,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+0,0,training,0.858695652,1,6Decision Tree
+1,0,testing,0.75,1,6Decision Tree
+0,0,testing,0.75,1,6Decision Tree
+1,1,testing,0.75,1,6Decision Tree
+0,0,testing,0.75,1,6Decision Tree
+1,1,testing,0.75,1,6Decision Tree
+1,1,testing,0.75,1,6Decision Tree
+0,0,testing,0.75,1,6Decision Tree
+0,0,testing,0.75,1,6Decision Tree
+1,0,testing,0.75,1,6Decision Tree
+1,0,testing,0.75,1,6Decision Tree
+1,0,testing,0.75,1,6Decision Tree
+1,1,testing,0.75,1,6Decision Tree
+1,0,testing,0.75,1,6Decision Tree
+0,0,testing,0.75,1,6Decision Tree
+0,0,testing,0.75,1,6Decision Tree
+1,0,testing,0.75,1,6Decision Tree
+1,1,testing,0.75,1,6Decision Tree
+1,1,testing,0.75,1,6Decision Tree
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+1,1,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+0,0,training,1,1,7Random Forest
+1,0,testing,0.708333333,1,7Random Forest
+0,0,testing,0.708333333,1,7Random Forest
+1,1,testing,0.708333333,1,7Random Forest
+0,0,testing,0.708333333,1,7Random Forest
+1,1,testing,0.708333333,1,7Random Forest
+0,1,testing,0.708333333,1,7Random Forest
+0,0,testing,0.708333333,1,7Random Forest
+0,0,testing,0.708333333,1,7Random Forest
+1,0,testing,0.708333333,1,7Random Forest
+1,0,testing,0.708333333,1,7Random Forest
+1,0,testing,0.708333333,1,7Random Forest
+1,1,testing,0.708333333,1,7Random Forest
+0,0,testing,0.708333333,1,7Random Forest
+0,0,testing,0.708333333,1,7Random Forest
+0,0,testing,0.708333333,1,7Random Forest
+1,0,testing,0.708333333,1,7Random Forest
+1,1,testing,0.708333333,1,7Random Forest
+1,1,testing,0.708333333,1,7Random Forest
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+1,1,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,training,1,1,8XGBoost
+0,0,testing,0.625,1,8XGBoost
+0,0,testing,0.625,1,8XGBoost
+1,1,testing,0.625,1,8XGBoost
+0,0,testing,0.625,1,8XGBoost
+1,1,testing,0.625,1,8XGBoost
+0,1,testing,0.625,1,8XGBoost
+0,0,testing,0.625,1,8XGBoost
+0,0,testing,0.625,1,8XGBoost
+1,0,testing,0.625,1,8XGBoost
+1,0,testing,0.625,1,8XGBoost
+1,0,testing,0.625,1,8XGBoost
+0,1,testing,0.625,1,8XGBoost
+1,0,testing,0.625,1,8XGBoost
+0,0,testing,0.625,1,8XGBoost
+0,0,testing,0.625,1,8XGBoost
+1,0,testing,0.625,1,8XGBoost
+1,1,testing,0.625,1,8XGBoost
+1,1,testing,0.625,1,8XGBoost
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+1,1,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,training,0.945652174,1,9LightGBM
+0,0,testing,0.708333333,1,9LightGBM
+0,0,testing,0.708333333,1,9LightGBM
+1,1,testing,0.708333333,1,9LightGBM
+0,0,testing,0.708333333,1,9LightGBM
+1,1,testing,0.708333333,1,9LightGBM
+0,1,testing,0.708333333,1,9LightGBM
+0,0,testing,0.708333333,1,9LightGBM
+0,0,testing,0.708333333,1,9LightGBM
+1,0,testing,0.708333333,1,9LightGBM
+1,0,testing,0.708333333,1,9LightGBM
+1,0,testing,0.708333333,1,9LightGBM
+1,1,testing,0.708333333,1,9LightGBM
+1,0,testing,0.708333333,1,9LightGBM
+0,0,testing,0.708333333,1,9LightGBM
+0,0,testing,0.708333333,1,9LightGBM
+1,0,testing,0.708333333,1,9LightGBM
+1,1,testing,0.708333333,1,9LightGBM
+1,1,testing,0.708333333,1,9LightGBM
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+1,1,training,1,2,1Logistic Regression
+0,0,training,1,2,1Logistic Regression
+1,0,testing,0.791666667,2,1Logistic Regression
+1,1,testing,0.791666667,2,1Logistic Regression
+0,0,testing,0.791666667,2,1Logistic Regression
+1,1,testing,0.791666667,2,1Logistic Regression
+1,0,testing,0.791666667,2,1Logistic Regression
+1,0,testing,0.791666667,2,1Logistic Regression
+0,0,testing,0.791666667,2,1Logistic Regression
+1,1,testing,0.791666667,2,1Logistic Regression
+0,0,testing,0.791666667,2,1Logistic Regression
+1,1,testing,0.791666667,2,1Logistic Regression
+1,0,testing,0.791666667,2,1Logistic Regression
+0,0,testing,0.791666667,2,1Logistic Regression
+0,0,testing,0.791666667,2,1Logistic Regression
+1,0,testing,0.791666667,2,1Logistic Regression
+0,0,testing,0.791666667,2,1Logistic Regression
+1,1,testing,0.791666667,2,1Logistic Regression
+1,1,testing,0.791666667,2,1Logistic Regression
+0,0,testing,0.791666667,2,1Logistic Regression
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,1,training,0.913043478,2,2ridge
+1,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+1,1,training,0.913043478,2,2ridge
+0,0,training,0.913043478,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+1,1,testing,0.708333333,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+0,1,testing,0.708333333,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+1,1,testing,0.708333333,2,2ridge
+1,0,testing,0.708333333,2,2ridge
+0,1,testing,0.708333333,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+1,0,testing,0.708333333,2,2ridge
+0,0,testing,0.708333333,2,2ridge
+1,1,testing,0.708333333,2,2ridge
+1,1,testing,0.708333333,2,2ridge
+1,0,testing,0.708333333,2,2ridge
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,1,training,0.913043478,2,3lasso
+1,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+1,1,training,0.913043478,2,3lasso
+0,0,training,0.913043478,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+1,1,testing,0.708333333,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+0,1,testing,0.708333333,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+1,1,testing,0.708333333,2,3lasso
+1,0,testing,0.708333333,2,3lasso
+0,1,testing,0.708333333,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+1,0,testing,0.708333333,2,3lasso
+0,0,testing,0.708333333,2,3lasso
+1,1,testing,0.708333333,2,3lasso
+1,1,testing,0.708333333,2,3lasso
+1,0,testing,0.708333333,2,3lasso
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+1,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+1,1,training,0.826086957,2,4KNN
+0,0,training,0.826086957,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+1,1,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+1,1,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+1,1,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+1,1,testing,0.916666667,2,4KNN
+1,0,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+0,0,testing,0.916666667,2,4KNN
+1,1,testing,0.916666667,2,4KNN
+1,1,testing,0.916666667,2,4KNN
+1,0,testing,0.916666667,2,4KNN
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+1,1,training,0.956521739,2,5SVM
+0,0,training,0.956521739,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+1,1,testing,0.791666667,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+1,1,testing,0.791666667,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+1,1,testing,0.791666667,2,5SVM
+1,0,testing,0.791666667,2,5SVM
+0,1,testing,0.791666667,2,5SVM
+1,0,testing,0.791666667,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+0,0,testing,0.791666667,2,5SVM
+1,1,testing,0.791666667,2,5SVM
+1,1,testing,0.791666667,2,5SVM
+1,0,testing,0.791666667,2,5SVM
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+0,0,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,1,training,0.826086957,2,6Decision Tree
+1,0,training,0.826086957,2,6Decision Tree
+0,0,testing,0.791666667,2,6Decision Tree
+1,1,testing,0.791666667,2,6Decision Tree
+0,0,testing,0.791666667,2,6Decision Tree
+1,1,testing,0.791666667,2,6Decision Tree
+0,0,testing,0.791666667,2,6Decision Tree
+1,0,testing,0.791666667,2,6Decision Tree
+0,0,testing,0.791666667,2,6Decision Tree
+1,1,testing,0.791666667,2,6Decision Tree
+1,0,testing,0.791666667,2,6Decision Tree
+1,1,testing,0.791666667,2,6Decision Tree
+1,0,testing,0.791666667,2,6Decision Tree
+0,0,testing,0.791666667,2,6Decision Tree
+0,0,testing,0.791666667,2,6Decision Tree
+1,0,testing,0.791666667,2,6Decision Tree
+0,0,testing,0.791666667,2,6Decision Tree
+1,1,testing,0.791666667,2,6Decision Tree
+1,1,testing,0.791666667,2,6Decision Tree
+1,0,testing,0.791666667,2,6Decision Tree
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+1,1,training,1,2,7Random Forest
+0,0,training,1,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+1,1,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+1,1,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+1,1,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+0,1,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+1,0,testing,0.833333333,2,7Random Forest
+0,0,testing,0.833333333,2,7Random Forest
+1,1,testing,0.833333333,2,7Random Forest
+1,1,testing,0.833333333,2,7Random Forest
+1,0,testing,0.833333333,2,7Random Forest
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+1,1,training,1,2,8XGBoost
+0,0,training,1,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+1,1,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+1,1,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+1,0,testing,0.833333333,2,8XGBoost
+1,1,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+0,1,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+1,0,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+1,1,testing,0.833333333,2,8XGBoost
+1,1,testing,0.833333333,2,8XGBoost
+0,0,testing,0.833333333,2,8XGBoost
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+1,1,training,1,2,9LightGBM
+0,0,training,1,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+1,1,testing,0.791666667,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+1,1,testing,0.791666667,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+1,1,testing,0.791666667,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+0,1,testing,0.791666667,2,9LightGBM
+1,0,testing,0.791666667,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+1,0,testing,0.791666667,2,9LightGBM
+0,0,testing,0.791666667,2,9LightGBM
+1,1,testing,0.791666667,2,9LightGBM
+1,1,testing,0.791666667,2,9LightGBM
+1,0,testing,0.791666667,2,9LightGBM
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,1,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+0,0,training,1,3,1Logistic Regression
+1,0,testing,0.625,3,1Logistic Regression
+0,1,testing,0.625,3,1Logistic Regression
+0,0,testing,0.625,3,1Logistic Regression
+0,0,testing,0.625,3,1Logistic Regression
+1,0,testing,0.625,3,1Logistic Regression
+0,0,testing,0.625,3,1Logistic Regression
+0,0,testing,0.625,3,1Logistic Regression
+1,0,testing,0.625,3,1Logistic Regression
+1,1,testing,0.625,3,1Logistic Regression
+0,1,testing,0.625,3,1Logistic Regression
+0,0,testing,0.625,3,1Logistic Regression
+1,0,testing,0.625,3,1Logistic Regression
+1,1,testing,0.625,3,1Logistic Regression
+1,1,testing,0.625,3,1Logistic Regression
+1,1,testing,0.625,3,1Logistic Regression
+1,0,testing,0.625,3,1Logistic Regression
+0,0,testing,0.625,3,1Logistic Regression
+0,0,testing,0.625,3,1Logistic Regression
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,1,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+0,0,training,0.923913043,3,2ridge
+1,0,testing,0.708333333,3,2ridge
+1,1,testing,0.708333333,3,2ridge
+0,0,testing,0.708333333,3,2ridge
+0,0,testing,0.708333333,3,2ridge
+1,0,testing,0.708333333,3,2ridge
+0,0,testing,0.708333333,3,2ridge
+1,0,testing,0.708333333,3,2ridge
+0,0,testing,0.708333333,3,2ridge
+0,1,testing,0.708333333,3,2ridge
+1,1,testing,0.708333333,3,2ridge
+0,0,testing,0.708333333,3,2ridge
+0,0,testing,0.708333333,3,2ridge
+1,1,testing,0.708333333,3,2ridge
+1,1,testing,0.708333333,3,2ridge
+1,1,testing,0.708333333,3,2ridge
+1,0,testing,0.708333333,3,2ridge
+0,0,testing,0.708333333,3,2ridge
+1,0,testing,0.708333333,3,2ridge
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,1,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+0,0,training,0.923913043,3,3lasso
+1,0,testing,0.791666667,3,3lasso
+1,1,testing,0.791666667,3,3lasso
+0,0,testing,0.791666667,3,3lasso
+0,0,testing,0.791666667,3,3lasso
+1,0,testing,0.791666667,3,3lasso
+0,0,testing,0.791666667,3,3lasso
+1,0,testing,0.791666667,3,3lasso
+0,0,testing,0.791666667,3,3lasso
+1,1,testing,0.791666667,3,3lasso
+1,1,testing,0.791666667,3,3lasso
+0,0,testing,0.791666667,3,3lasso
+0,0,testing,0.791666667,3,3lasso
+1,1,testing,0.791666667,3,3lasso
+1,1,testing,0.791666667,3,3lasso
+1,1,testing,0.791666667,3,3lasso
+1,0,testing,0.791666667,3,3lasso
+0,0,testing,0.791666667,3,3lasso
+1,0,testing,0.791666667,3,3lasso
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,1,training,0.869565217,3,4KNN
+1,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+1,1,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,training,0.869565217,3,4KNN
+0,0,testing,0.75,3,4KNN
+0,1,testing,0.75,3,4KNN
+0,0,testing,0.75,3,4KNN
+0,0,testing,0.75,3,4KNN
+1,0,testing,0.75,3,4KNN
+0,0,testing,0.75,3,4KNN
+1,0,testing,0.75,3,4KNN
+0,0,testing,0.75,3,4KNN
+1,1,testing,0.75,3,4KNN
+1,1,testing,0.75,3,4KNN
+0,0,testing,0.75,3,4KNN
+0,0,testing,0.75,3,4KNN
+1,1,testing,0.75,3,4KNN
+1,1,testing,0.75,3,4KNN
+1,1,testing,0.75,3,4KNN
+1,0,testing,0.75,3,4KNN
+0,0,testing,0.75,3,4KNN
+1,0,testing,0.75,3,4KNN
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+1,1,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,training,0.945652174,3,5SVM
+0,0,testing,0.666666667,3,5SVM
+0,1,testing,0.666666667,3,5SVM
+0,0,testing,0.666666667,3,5SVM
+0,0,testing,0.666666667,3,5SVM
+1,0,testing,0.666666667,3,5SVM
+0,0,testing,0.666666667,3,5SVM
+1,0,testing,0.666666667,3,5SVM
+0,0,testing,0.666666667,3,5SVM
+0,1,testing,0.666666667,3,5SVM
+1,1,testing,0.666666667,3,5SVM
+0,0,testing,0.666666667,3,5SVM
+0,0,testing,0.666666667,3,5SVM
+1,1,testing,0.666666667,3,5SVM
+1,1,testing,0.666666667,3,5SVM
+1,1,testing,0.666666667,3,5SVM
+1,0,testing,0.666666667,3,5SVM
+0,0,testing,0.666666667,3,5SVM
+1,0,testing,0.666666667,3,5SVM
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+1,1,training,0.858695652,3,6Decision Tree
+1,0,training,0.858695652,3,6Decision Tree
+0,0,training,0.858695652,3,6Decision Tree
+0,0,testing,0.75,3,6Decision Tree
+1,1,testing,0.75,3,6Decision Tree
+0,0,testing,0.75,3,6Decision Tree
+0,0,testing,0.75,3,6Decision Tree
+1,0,testing,0.75,3,6Decision Tree
+0,0,testing,0.75,3,6Decision Tree
+1,0,testing,0.75,3,6Decision Tree
+0,0,testing,0.75,3,6Decision Tree
+0,1,testing,0.75,3,6Decision Tree
+1,1,testing,0.75,3,6Decision Tree
+0,0,testing,0.75,3,6Decision Tree
+0,0,testing,0.75,3,6Decision Tree
+1,1,testing,0.75,3,6Decision Tree
+1,1,testing,0.75,3,6Decision Tree
+1,1,testing,0.75,3,6Decision Tree
+1,0,testing,0.75,3,6Decision Tree
+0,0,testing,0.75,3,6Decision Tree
+1,0,testing,0.75,3,6Decision Tree
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+1,1,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,training,1,3,7Random Forest
+0,0,testing,0.666666667,3,7Random Forest
+0,1,testing,0.666666667,3,7Random Forest
+0,0,testing,0.666666667,3,7Random Forest
+0,0,testing,0.666666667,3,7Random Forest
+1,0,testing,0.666666667,3,7Random Forest
+0,0,testing,0.666666667,3,7Random Forest
+1,0,testing,0.666666667,3,7Random Forest
+0,0,testing,0.666666667,3,7Random Forest
+0,1,testing,0.666666667,3,7Random Forest
+1,1,testing,0.666666667,3,7Random Forest
+0,0,testing,0.666666667,3,7Random Forest
+0,0,testing,0.666666667,3,7Random Forest
+1,1,testing,0.666666667,3,7Random Forest
+1,1,testing,0.666666667,3,7Random Forest
+1,1,testing,0.666666667,3,7Random Forest
+1,0,testing,0.666666667,3,7Random Forest
+0,0,testing,0.666666667,3,7Random Forest
+1,0,testing,0.666666667,3,7Random Forest
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+1,1,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,training,1,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+0,1,testing,0.708333333,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+1,0,testing,0.708333333,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+0,1,testing,0.708333333,3,8XGBoost
+1,1,testing,0.708333333,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+1,1,testing,0.708333333,3,8XGBoost
+1,1,testing,0.708333333,3,8XGBoost
+1,1,testing,0.708333333,3,8XGBoost
+1,0,testing,0.708333333,3,8XGBoost
+0,0,testing,0.708333333,3,8XGBoost
+1,0,testing,0.708333333,3,8XGBoost
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+1,1,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,training,0.989130435,3,9LightGBM
+0,0,testing,0.666666667,3,9LightGBM
+0,1,testing,0.666666667,3,9LightGBM
+0,0,testing,0.666666667,3,9LightGBM
+0,0,testing,0.666666667,3,9LightGBM
+1,0,testing,0.666666667,3,9LightGBM
+0,0,testing,0.666666667,3,9LightGBM
+1,0,testing,0.666666667,3,9LightGBM
+0,0,testing,0.666666667,3,9LightGBM
+0,1,testing,0.666666667,3,9LightGBM
+1,1,testing,0.666666667,3,9LightGBM
+0,0,testing,0.666666667,3,9LightGBM
+0,0,testing,0.666666667,3,9LightGBM
+1,1,testing,0.666666667,3,9LightGBM
+1,1,testing,0.666666667,3,9LightGBM
+1,1,testing,0.666666667,3,9LightGBM
+1,0,testing,0.666666667,3,9LightGBM
+0,0,testing,0.666666667,3,9LightGBM
+1,0,testing,0.666666667,3,9LightGBM
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+1,1,training,1,4,1Logistic Regression
+0,0,training,1,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,1,testing,0.666666667,4,1Logistic Regression
+0,1,testing,0.666666667,4,1Logistic Regression
+0,1,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,1,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+1,1,testing,0.666666667,4,1Logistic Regression
+0,0,testing,0.666666667,4,1Logistic Regression
+1,1,testing,0.666666667,4,1Logistic Regression
+1,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,0,training,0.880434783,4,2ridge
+0,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+1,1,training,0.880434783,4,2ridge
+0,0,training,0.880434783,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,1,testing,0.75,4,2ridge
+0,1,testing,0.75,4,2ridge
+1,1,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,1,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+1,1,testing,0.75,4,2ridge
+0,0,testing,0.75,4,2ridge
+1,1,testing,0.75,4,2ridge
+1,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+1,1,training,0.902173913,4,3lasso
+0,0,training,0.902173913,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,1,testing,0.75,4,3lasso
+0,1,testing,0.75,4,3lasso
+1,1,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,1,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+1,1,testing,0.75,4,3lasso
+0,0,testing,0.75,4,3lasso
+1,1,testing,0.75,4,3lasso
+1,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,0,training,0.793478261,4,4KNN
+0,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+1,1,training,0.793478261,4,4KNN
+0,0,training,0.793478261,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+1,0,testing,0.708333333,4,4KNN
+1,1,testing,0.708333333,4,4KNN
+0,1,testing,0.708333333,4,4KNN
+1,1,testing,0.708333333,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+1,0,testing,0.708333333,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+0,1,testing,0.708333333,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+1,0,testing,0.708333333,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+1,1,testing,0.708333333,4,4KNN
+0,0,testing,0.708333333,4,4KNN
+1,1,testing,0.708333333,4,4KNN
+1,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+1,1,training,0.934782609,4,5SVM
+0,0,training,0.934782609,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,1,testing,0.625,4,5SVM
+0,1,testing,0.625,4,5SVM
+1,1,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,1,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+1,0,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+1,1,testing,0.625,4,5SVM
+0,0,testing,0.625,4,5SVM
+0,1,testing,0.625,4,5SVM
+1,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+0,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+1,1,training,0.836956522,4,6Decision Tree
+0,0,training,0.836956522,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+1,0,testing,0.833333333,4,6Decision Tree
+1,1,testing,0.833333333,4,6Decision Tree
+1,1,testing,0.833333333,4,6Decision Tree
+1,1,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+0,1,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+1,0,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+1,1,testing,0.833333333,4,6Decision Tree
+0,0,testing,0.833333333,4,6Decision Tree
+1,1,testing,0.833333333,4,6Decision Tree
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+1,1,training,1,4,7Random Forest
+0,0,training,1,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,1,testing,0.666666667,4,7Random Forest
+0,1,testing,0.666666667,4,7Random Forest
+1,1,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,1,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+0,1,testing,0.666666667,4,7Random Forest
+0,0,testing,0.666666667,4,7Random Forest
+1,1,testing,0.666666667,4,7Random Forest
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+1,1,training,1,4,8XGBoost
+0,0,training,1,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+1,0,testing,0.666666667,4,8XGBoost
+1,1,testing,0.666666667,4,8XGBoost
+0,1,testing,0.666666667,4,8XGBoost
+1,1,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+0,1,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+1,0,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+0,1,testing,0.666666667,4,8XGBoost
+0,0,testing,0.666666667,4,8XGBoost
+1,1,testing,0.666666667,4,8XGBoost
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+1,1,training,1,4,9LightGBM
+0,0,training,1,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+1,0,testing,0.791666667,4,9LightGBM
+1,1,testing,0.791666667,4,9LightGBM
+1,1,testing,0.791666667,4,9LightGBM
+1,1,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,1,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+0,1,testing,0.791666667,4,9LightGBM
+0,0,testing,0.791666667,4,9LightGBM
+1,1,testing,0.791666667,4,9LightGBM
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+1,1,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,training,1,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+1,1,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+0,1,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+1,1,testing,0.708333333,5,1Logistic Regression
+0,1,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+0,1,testing,0.708333333,5,1Logistic Regression
+0,0,testing,0.708333333,5,1Logistic Regression
+1,1,testing,0.708333333,5,1Logistic Regression
+1,0,testing,0.708333333,5,1Logistic Regression
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+1,1,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,training,0.891304348,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,1,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,1,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+1,1,testing,0.625,5,2ridge
+0,1,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+0,1,testing,0.625,5,2ridge
+0,0,testing,0.625,5,2ridge
+1,1,testing,0.625,5,2ridge
+1,0,testing,0.625,5,2ridge
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,1,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+1,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+1,1,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,training,0.836956522,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+0,1,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+0,1,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+1,1,testing,0.708333333,5,3lasso
+0,1,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+1,1,testing,0.708333333,5,3lasso
+0,0,testing,0.708333333,5,3lasso
+1,1,testing,0.708333333,5,3lasso
+1,0,testing,0.708333333,5,3lasso
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,1,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,1,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+1,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+1,1,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,training,0.847826087,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+0,1,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+0,1,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+1,1,testing,0.708333333,5,4KNN
+0,1,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+1,1,testing,0.708333333,5,4KNN
+0,0,testing,0.708333333,5,4KNN
+1,1,testing,0.708333333,5,4KNN
+1,0,testing,0.708333333,5,4KNN
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+1,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+1,1,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,training,0.902173913,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,1,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,1,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+1,1,testing,0.625,5,5SVM
+0,1,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+0,1,testing,0.625,5,5SVM
+0,0,testing,0.625,5,5SVM
+1,1,testing,0.625,5,5SVM
+1,0,testing,0.625,5,5SVM
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,1,training,0.836956522,5,6Decision Tree
+1,0,training,0.836956522,5,6Decision Tree
+0,0,training,0.836956522,5,6Decision Tree
+1,0,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+1,0,testing,0.875,5,6Decision Tree
+1,1,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+1,1,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+1,1,testing,0.875,5,6Decision Tree
+1,1,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+1,1,testing,0.875,5,6Decision Tree
+0,0,testing,0.875,5,6Decision Tree
+1,1,testing,0.875,5,6Decision Tree
+1,0,testing,0.875,5,6Decision Tree
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+1,1,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,training,1,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,1,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,1,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+1,1,testing,0.708333333,5,7Random Forest
+1,1,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+0,1,testing,0.708333333,5,7Random Forest
+0,0,testing,0.708333333,5,7Random Forest
+1,1,testing,0.708333333,5,7Random Forest
+1,0,testing,0.708333333,5,7Random Forest
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+1,1,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,training,1,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+0,1,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+0,1,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+1,1,testing,0.791666667,5,8XGBoost
+1,1,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+1,1,testing,0.791666667,5,8XGBoost
+0,0,testing,0.791666667,5,8XGBoost
+1,1,testing,0.791666667,5,8XGBoost
+1,0,testing,0.791666667,5,8XGBoost
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+1,1,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,training,1,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+0,1,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+0,1,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+1,1,testing,0.791666667,5,9LightGBM
+1,1,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+1,1,testing,0.791666667,5,9LightGBM
+0,0,testing,0.791666667,5,9LightGBM
+1,1,testing,0.791666667,5,9LightGBM
+1,0,testing,0.791666667,5,9LightGBM
